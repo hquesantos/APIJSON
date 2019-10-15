@@ -1,0 +1,72 @@
+{
+	"alunos":
+	[
+		{	"id":1,	"nome":"Ana", "turma":1	},
+		
+		{	"id":2,"nome":"Bianca", "turma":1	},
+			
+		{   "id":3,	"nome":"Caroline",	"turma":1	},
+			
+		{	"id":4,	"nome":"Daniel",	"turma":1	},
+			
+		{	"id":5,	"nome":"Flavio",	"turma":1	},
+			
+		{	"id":6,	"nome":"Manoel",	"turma":1	},
+            
+        {	"id":7,	"nome":"Raquel",	"turma":1	},
+			
+        {	"id":8,	"nome":"Amanda",    "turma":2	},
+        			
+		{	"id":9,	"nome":"Gabriel",	"turma":2	},
+		
+		{	"id":10,"nome":"Henrique",	"turma":2	},
+		
+		{	"id":11,"nome":"Maria",	"turma":2	},	
+			
+		{	"id":12,"nome":"Otavio",	"turma":2	},
+		
+		{	"id":13,"nome":"Rosangela",	"turma":2	},
+		
+		{	"id":14,"nome":"Tiago",		"turma":2	}
+	],
+	
+	
+	"professores":
+	[
+		{	"id":1,	"nome":"Bianca", "reserva":"2"},
+			
+		{	"id":2,	"nome":"Mariano",	"reserva":0	},
+			
+		{	"id":3,	"nome":"Roberta",	"reserva":0	},
+			
+		{	"id":4,	"nome":"Paula",	"reserva":0	},
+			
+		{	"id":5,	"nome":"Sergio","reserva":"1"}
+	],
+	
+	"aulas":
+	[
+		{	"turma":1,	"horario":"19:00",	"aula":"1"	},
+			
+		{	"turma":2,	"horario":"18:30",	"aula":"2"	},
+			
+		{	"turma":2,	"horario":"20:00",	"aula":"5"	}
+	],
+	
+	"locais":
+	[
+		{	"locaisid":1,		"nome":"multimidia",	"reserva":"5",	"status":true,	"horario":"20:00"	},
+		
+		{	"locaisid":2,		"nome":"laboratorio",	"reserva":"2",	"status":true,	"horario":"18:30"	},
+			
+		{	"locaisid":3,		"nome":"salao",			"reserva":0,	"status":false,	"horario":0	},
+			
+		{	"locaisid":4,		"nome":"informatica",	"reserva":0,	"status":false,	"horario":0	},
+		
+		{	"locaisid":5,		"nome":"auditorio",		"reserva":0,	"status":false,	"horario":0	}
+			
+    ],
+    "profile": {
+        "name": "APIJSON"
+      }
+}
