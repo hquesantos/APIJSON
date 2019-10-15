@@ -56,9 +56,9 @@
 		{	"id":14,
 			"nome":"Tiago",
 			"turma":2	}
-	],
-	
-	
+	]
+}
+{	
 	"professores":
 	[
 		{	"id":1,
@@ -80,8 +80,9 @@
 		{	"id":5,
 			"nome":"Sergio",
 			"reserva":"1"}
-	],
-	
+	]
+}
+{
 	"aulas":
 	[
 		{	"turma":1,
@@ -95,8 +96,9 @@
 		{	"turma":2,
 			"horario":"20:00",
 			"aula":"5"	}
-	],
-	
+	]
+}
+{
 	"locais":
 	[
 		{	"locaisid":1,			"nome":"multimidia",		"reserva":"5",		"status":true,			"horario":"20:00"	},
