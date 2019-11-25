@@ -33,15 +33,15 @@
 	
 	"professores":
 	[
-		{	"id":1,	"nome":"Bianca", "reserva":"2"},
+		{	"id":1,	"nome":"Bianca"},
 			
-		{	"id":2,	"nome":"Mariano",	"reserva":0	},
+		{	"id":2,	"nome":"Mariano"},
 			
-		{	"id":3,	"nome":"Roberta",	"reserva":0	},
+		{	"id":3,	"nome":"Roberta"},
 			
-		{	"id":4,	"nome":"Paula",	"reserva":0	},
+		{	"id":4,	"nome":"Paula"},
 			
-		{	"id":5,	"nome":"Sergio","reserva":"1"}
+		{	"id":5,	"nome":"Sergio"}
 	],
 	
 	"aulas":
@@ -59,11 +59,11 @@
 		
 		{	"locaisid":2,		"nome":"laboratorio",	"reserva":"2",	"status":true,	"horario":"18:30"	},
 			
-		{	"locaisid":3,		"nome":"salao",			"reserva":0,	"status":false,	"horario":0	},
+		{	"locaisid":3,		"nome":"salao",		"reserva":0,	"status":false,	"horario":0	},
 			
 		{	"locaisid":4,		"nome":"informatica",	"reserva":0,	"status":false,	"horario":0	},
 		
-		{	"locaisid":5,		"nome":"auditorio",		"reserva":0,	"status":false,	"horario":0	}
+		{	"locaisid":5,		"nome":"auditorio",	"reserva":0,	"status":false,	"horario":0	}
 			
     ],
     "profile": {
